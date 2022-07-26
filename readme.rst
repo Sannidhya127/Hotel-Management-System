@@ -1,3 +1,8 @@
+.. image:: https://www.codefactor.io/repository/github/sannidhya127/hotel-management-system/badge
+   :target: https://www.codefactor.io/repository/github/sannidhya127/hotel-management-system
+   :alt: CodeFactor
+
+
 Hotel Management System in Python
 =================================
 
