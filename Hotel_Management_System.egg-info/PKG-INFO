@@ -1,4 +1,27 @@
 Metadata-Version: 2.1
 Name: Hotel-Management-System
 Version: 0.1.0
+Summary: "Just another hotel Management system in python"
+Home-page: https://github.com/Sannidhya127/Hotel-Management-System
+Author: Sannidhya Dasgupta
+Author-email: sannidhya127@gmail.com
+License: : OSI Approved :: GNU GENERAL PUBLIC LICENSE
+Requires-Python: >=3.6
+Description-Content-Type: text/restructuredtext
 License-File: LICENSE
+
+Hotel Management System in Python
+=================================
+
+A basic Hotel Management System developed in Python. The program at the end of development is expected to perform the following functions precisely:
+
+- Check Room Availability
+- Book Rooms
+- Order Food
+- Get data by customer name/id
+- View staff data and perform related activities like playing salary, allowing leaves, etc
+- Send Mails
+- Room Status Check by number (clean/not clean and other related details)
+
+
+Development might be slow and even stationary at times, depends on my school.

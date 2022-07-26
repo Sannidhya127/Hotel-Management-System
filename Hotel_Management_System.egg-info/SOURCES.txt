@@ -1,5 +1,6 @@
 LICENSE
 pyproject.toml
+setup.cfg
 setup.py
 Hotel_Management_System.egg-info/PKG-INFO
 Hotel_Management_System.egg-info/SOURCES.txt
